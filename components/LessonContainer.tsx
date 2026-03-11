@@ -196,6 +196,7 @@ export function LessonContainer() {
       </div>
 
       {/* Letter Selection Modal Popup */}
+      {/* Letter Selection Modal Popup */}
       {isModalOpen && (
         <div className="fixed inset-0 z-50 flex items-center justify-center p-4 overflow-hidden">
           {/* Animated blurred backdrop with richer tint */}
